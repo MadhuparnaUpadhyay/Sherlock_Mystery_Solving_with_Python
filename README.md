@@ -4,6 +4,7 @@ Introduction: Text adventure Game to help Sherlock Solve the mystery coded in Py
 Step 1: Instructions for Installation
 
 This game is in ipynb extension. Jupyter Notebook Installation is required but not mandatory for the execution.
+This code is written and compatible for Python 3 and above.
 
 Step 2 : Solve the mystery for Sherlock
 

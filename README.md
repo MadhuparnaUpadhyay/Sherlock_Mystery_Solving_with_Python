@@ -44,10 +44,10 @@ Introduction: This game is based on the famous detective character Sherlock Holm
 <a name="usage"></a>
 # Usage
 
-  Round 1:'ROOM WITH A NOTE' - Decode the floor clue.
-  Round 2:'SUITCASE AND A PHONE' - Crack the suitcase.
-  Round 3:'BOTTLE WITH CAPSULE' - Guess the correct capsule to save Ms.Wilston.
-  Round 'LUCKY CHANCE': - This round only pops up when you miss on an important clue. 
+* Round 1:'ROOM WITH A NOTE' - Decode the floor clue.
+* Round 2:'SUITCASE AND A PHONE' - Crack the suitcase.
+* Round 3:'BOTTLE WITH CAPSULE' - Guess the correct capsule to save Ms.Wilston.
+* Round 'LUCKY CHANCE': - This round only pops up when you miss on an important clue. 
   
 <a name="knownerror"></a>
 # Known Errors

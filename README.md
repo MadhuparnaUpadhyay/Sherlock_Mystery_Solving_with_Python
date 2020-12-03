@@ -11,12 +11,13 @@ The story is inspired from the famous detective's book called Lady in Pink and h
 
 # Table of Contents
 
+* [About](#about)
 * [Installation](#installation)
 * [Quick Start](#quick-start)
 * [Install Package](#installationpackage)
 * [Game Levels](#gamelevels)
 * [Known Errors](#knownerror)
-* [About](#about)
+
 
 <a name="installation"></a>
 # Installation

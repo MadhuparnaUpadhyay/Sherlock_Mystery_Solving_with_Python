@@ -14,8 +14,7 @@ The story is inspired from the famous detective's book called Lady in Pink and h
 * [Installation](#installation)
 * [Quick Start](#quick-start)
 * [Install Package](#installationpackage)
-* [Usage](#usage)
-* [Use Cases](#use-cases)
+* [Game Levels](#gamelevels)
 * [Known Errors](#knownerror)
 * [About](#about)
 
@@ -41,13 +40,13 @@ pip install python3
 Introduction: This game is based on the famous detective character Sherlock Holmes and the story-THE PINK SUITCASE. It consists of four stages, and also has defined functions for start, win, and lose. This game has a mysterious situation in the case mystery, and requires a slight amount of idea about Sherlock the how brilliant he can be.
 
 
-<a name="usage"></a>
-# Usage
+<a name="gamelevels"></a>
+# Game Levels
 
-* Round 1:'ROOM WITH A NOTE' - Decode the floor clue.
-* Round 2:'SUITCASE AND A PHONE' - Crack the suitcase.
-* Round 3:'BOTTLE WITH CAPSULE' - Guess the correct capsule to save Ms.Wilston.
-* Round 'LUCKY CHANCE': - This round only pops up when you miss on an important clue. 
+* Round 1 :'ROOM WITH A NOTE' - Decode the floor clue.
+* Round 2 :'SUITCASE AND A PHONE' - Crack the suitcase.
+* Round 3 :'BOTTLE WITH CAPSULE' - Guess the correct capsule to save Ms.Wilston.
+* Round 'LUCKY CHANCE' : - This round only pops up when you miss on an important clue. 
   
 <a name="knownerror"></a>
 # Known Errors
